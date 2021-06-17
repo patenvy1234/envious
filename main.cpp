@@ -1,6 +1,5 @@
 /*
-Malhar Nimavat
-ID - 202003003
+pathik
 Merge Sort
 */
 #include <iostream>
